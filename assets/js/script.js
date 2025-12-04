@@ -279,7 +279,7 @@ document.addEventListener('DOMContentLoaded', function() {
             });
     }
 
-    loadNews('/assets/css/data/noticias.json');
+    loadNews('./assets/css/data/noticias.json');
 
     // ======================================================
     // LÓGICA DO MODAL DE DOAÇÕES (PIX)
